@@ -1,1 +1,1 @@
-# spaam-course-2022
+# spaam-course-2022Just an example repo
